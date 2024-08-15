@@ -1,7 +1,7 @@
-# factorio-stationmaker
+# factorio-stationmaker - 2024 JULY
 
 Factorio Station Maker by Dogmai
-  (DogmaiSEA || Dogmai - South East Asia: Servers)
+- DogmaiSEA || Dogmai - South East Asia (Servers)
 
 A collection of commonly used blueprints that can be used on any type of train, for example; 1-2, 2-4, 1-8, 3-8-3, or whatever monstrosity you can imagine, such as 23-5-83-9-238-59.
 
